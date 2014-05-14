@@ -1,4 +1,18 @@
-CFuck
-=====
+Status
+======
+This module is under active development and ready for release.
 
-Brainfuck interpreter in lua
+Synopsis
+======
+```lua
+
+-- Arguments: Brainfuck code
+-- Output: Hello
+
+Brainfuck.Compile([[
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++
+.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.
+------.--------.>+.>.
+]])
+
+```
