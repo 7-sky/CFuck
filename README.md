@@ -1,7 +1,3 @@
-Status
-======
-This module is under active development and ready for release.
-
 Synopsis
 ======
 ```lua
